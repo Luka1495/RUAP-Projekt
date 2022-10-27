@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije");
+            Console.WriteLine("Pozdrav iz aplikacije 1231 broj indexa");
         }
     }
 }
